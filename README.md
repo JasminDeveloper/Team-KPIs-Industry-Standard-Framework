@@ -261,10 +261,15 @@ KPIs must drive action, not just reports.
 
 # 📌 Usage Rules
 
-- Follow this structure for every technology
-- Keep metrics measurable
-- Avoid duplicate KPIs
-- Review quarterly
-- Update when processes change
+- Use a consistent structure for every technology to maintain uniformity and readability.
+- Define all metrics in measurable and trackable terms to ensure accurate performance evaluation.
+- Avoid duplicate or overlapping KPIs to prevent confusion and redundant reporting.
+- Conduct quarterly reviews to assess effectiveness and identify areas for improvement.
+- Update the document promptly whenever workflows, tools, or processes change to keep it current and relevant.
 
----
+
+### 📄 Footer
+
+**The Intellify**  
+https://theintellify.com/  
+**Last Updated:** 09 February 2026
