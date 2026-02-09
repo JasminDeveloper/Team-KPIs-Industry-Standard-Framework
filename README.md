@@ -18,10 +18,10 @@ This framework acts as the **base template** for all technology-specific KPI doc
 
 This structure is mandatory for all stacks:
 
-- React
-- HTML / CSS
-- Laravel
-- Node.js
+- [React KPIs](React/react-kpis.md)
+- [HTML & CSS KPIs](HTML%20&%20CSS/html-css-kpis.md)
+- [Laravel KPIs](Laravel/laravel-kpis.md)
+- [Node.js KPIs](nodeJs/nodejs-kpis.md)
 - Any future technologies
 
 Each technology folder should extend this document with stack-specific KPIs.
